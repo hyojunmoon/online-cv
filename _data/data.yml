@@ -57,56 +57,39 @@ career-profile:
 
 education:
 
-    - degree: BSc in Electrical and Computer Engineering, BBA in Business Administration (focus on Finance)
+    - degree: BSc in Electrical and Computer Engineering, BBA in Business Administration
       university: Seoul National University
       time: 2014 - current
       details: |
-          - Eminence scholarship (Highest academic honor scholarship) (2015)
-          - Quantitative Investment Club
+          - Eminence scholarship (highest academic honor scholarship)
+          - Quantitative Investment Club 
+          - BBA focus on Finance
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Team Leader
+      time: 2018.5 - Present
+      company: Qraft Technologies AI Research, Seoul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        When I joined Qraft Technologies, I founded AI Research team from the bottom. To build up the team, recruiting
+        new people and project setting was crucial. People from World Quant, Naver, and Shinhan Bank Big Data Center joined
+        the team, and the team became a core team within the company. 
+          - Optimal Order Execution
+          - AI Enhanced Factor ETF (US NYSE)
+          - AI Currency Hedging
+          - High Frequency Trading
+          - Deep Asset Allocation
+          - Robo Advisor
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Researcher
+      time: 2018.1 - 2018.6
+      company: Machine Learning & Text Mining Lab, Seoul National University Business School
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        The goal is to apply machine learning to solve business problem efficiently.
+          - Text mining for analyzing industrial correlation and developing ‘Good Firm Index’
+          - TF-IDF keyword analysis through NLP library (KoNLP & Mecab)
+          - Developed text mining tools to analyze industrial pdf documents (Google PDF auto crawler, pdf-to-txt converter)
+          - Word2Vec, Doc2Vec, Seq2Seq modeling
+          - Deep neural network application on operational research
 
 projects:
     title: Projects
