@@ -16,7 +16,7 @@ sidebar:
     phone: +82 10 2577 8980
     website: #do not add http://
     linkedin: hyojunmoon
-    github: 
+    github: hyojunmoon
     gitlab:
     bitbucket:
     twitter: 
@@ -56,31 +56,13 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+
+    - degree: BSc in Electrical and Computer Engineering, BBA in Business Administration (focus on Finance)
+      university: Seoul National University
+      time: 2014 - current
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Eminence scholarship (Highest academic honor scholarship) (2015)
+          - Quantitative Investment Club
 
 experiences:
     - role: Lead Developer
