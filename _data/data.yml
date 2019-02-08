@@ -34,15 +34,15 @@ sidebar:
 #       - idiom: 
 #         level: 
 
-#     interests:
-#       - item: 
-#         link:
+    interests:
+      - item: Deep Learning
+        link:
 
-#       - item: 
-#         link:
+      - item: Factor Investing
+        link:
 
-#       - item: 
-#         link:
+      - item: High Frequency Trading
+        link:
 
 career-profile:
     title: Career Profile
