@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: hellohyojun@gmail.com
     phone: +82 10 2577 8980
-    website: qraftec.com #do not add http://
+    website: #do not add http://
     linkedin: hyojunmoon
     github: 
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
